@@ -1,2 +1,2 @@
-:HL["/rangegate-web/_next/static/chunks/0qbx4cjs3a3le.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"terms","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"xHT3HW3OdHdcdablO_ykm"}
+:HL["/rangegate-web/_next/static/chunks/3_e15935u0yu4.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"terms","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"KG9JqqB4lafX7rfrrLtfr"}
