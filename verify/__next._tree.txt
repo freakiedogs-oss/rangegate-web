@@ -1,2 +1,2 @@
 :HL["/rangegate-web/_next/static/chunks/0qbx4cjs3a3le.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"verify","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"9VEdKu72iERKhkz1E_0O8"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"verify","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"xHT3HW3OdHdcdablO_ykm"}
